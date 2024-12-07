@@ -32,142 +32,142 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Angular_logo.png" alt="angular" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Angular_logo.svg" alt="angular" width="40" height="40"/>
   </a> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Amazon_Web_Services_Logo.png" alt="aws" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_Azure_Logo.png" alt="azure" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Microsoft_Azure_Logo.svg" alt="azure" width="40" height="40"/>
   </a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Blender_logo.png" alt="blender" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Blender_logo.svg" alt="blender" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Bootstrap_logo.png" alt="bootstrap" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/C_Programming_Language_logo.png" alt="c" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Programming_Language_logo.svg" alt="c" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/CSS3_logo.png" alt="css3" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/CSS3_logo.svg" alt="css3" width="40" height="40"/>
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Django_logo.png" alt="django" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Django_logo.svg" alt="django" width="40" height="40"/>
   </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Docker_logo.png" alt="docker" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Docker_logo.svg" alt="docker" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Express.js_logo.png" alt="express" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Expressjs.png" alt="express" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Figma_logo.png" alt="figma" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Figma_logo.svg" alt="figma" width="40" height="40"/>
   </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Firebase_logo.png" alt="firebase" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Firebase_logo.svg" alt="firebase" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Flask_logo.png" alt="flask" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Flask_logo.svg" alt="flask" width="40" height="40"/>
   </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Flutter_logo.png" alt="flutter" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flutter_logo.svg" alt="flutter" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Git_logo.png" alt="git" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Git-logo.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Apache_Hadoop_logo.png" alt="hadoop" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Apache_Hadoop_logo.svg" alt="hadoop" width="40" height="40"/>
   </a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Heroku_logo.png" alt="heroku" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Heroku_logo.svg" alt="heroku" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/HTML5_logo.png" alt="html5" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/HTML5_logo.svg" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Java_logo.png" alt="java" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Java_logo.svg" alt="java" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/JavaScript_logo.png" alt="javascript" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Jenkins_logo.png" alt="jenkins" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Jenkins_logo.svg" alt="jenkins" width="40" height="40"/>
   </a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Apache_Kafka_logo.png" alt="kafka" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Apache_Kafka_logo.svg" alt="kafka" width="40" height="40"/>
   </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Kubernetes_logo.png" alt="kubernetes" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Kubernetes_logo.svg" alt="kubernetes" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Linux_logo.png" alt="linux" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Linux_logo.svg" alt="linux" width="40" height="40"/>
   </a>     
   <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Materialize_logo.png" alt="materialize" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Materialize_logo.svg" alt="materialize" width="40" height="40"/>
   </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Matlab_logo.png" alt="matlab" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Matlab_logo.svg" alt="matlab" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/MongoDB_logo.png" alt="mongodb" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/MongoDB_logo.svg" alt="mongodb" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/MySQL_logo.png" alt="mysql" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/MySQL_logo.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Node.js_logo.png" alt="nodejs" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_logo.png" alt="opencv" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/OpenCV_logo.svg" alt="opencv" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Pandas_logo.png" alt="pandas" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" height="40"/>
   </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Postman_logo.png" alt="postman" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Postman_logo.svg" alt="postman" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python_logo.png" alt="python" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/PyTorch_logo.png" alt="pytorch" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/PyTorch_logo.svg" alt="pytorch" width="40" height="40"/>
   </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-logo.png" alt="react" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-logo.png" alt="reactnative" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-logo.svg" alt="reactnative" width="40" height="40"/>
   </a> 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Redux_logo.png" alt="redux" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Redux.svg" alt="redux" width="40" height="40"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Scikit_learn_logo.png" alt="scikit_learn" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo.svg" alt="scikit_learn" width="40" height="40"/>
   </a>    
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.png" alt="seaborn" width="40" height="40"/>
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a> 
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Selenium_logo.png" alt="selenium" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Selenium_logo.svg" alt="selenium" width="40" height="40"/>
   </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Spring_framework_logo.png" alt="spring" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Spring_framework_logo.svg" alt="spring" width="40" height="40"/>
   </a> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/SQLite_logo.png" alt="sqlite" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/SQLite_logo.svg" alt="sqlite" width="40" height="40"/>
   </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Tailwind_CSS_logo.png" alt="tailwind" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_logo.svg" alt="tailwind" width="40" height="40"/>
   </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/TensorFlow_logo.png" alt="tensorflow" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/TensorFlow_logo.svg" alt="tensorflow" width="40" height="40"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/TypeScript_logo.png" alt="typescript" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Typescript_logo.svg" alt="typescript" width="40" height="40"/>
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Unity_Technologies_logo.png" alt="unity" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Unity_Technologies_logo.svg" alt="unity" width="40" height="40"/>
   </a>
 </p>
 
