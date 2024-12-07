@@ -34,9 +34,6 @@
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/AngularJS_logo.svg" alt="angular" width="40" height="40"/>
   </a> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angularjs" width="40" height="40"/>
-  </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/>
   </a>
@@ -51,12 +48,6 @@
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Apache_Cassandra_logo.svg" alt="cassandra" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css3" width="40" height="40"/>
@@ -179,6 +170,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Unity_Technologies_logo.svg" alt="unity" width="40" height="40"/>
   </a>
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthbhamare01&show_icons=true&locale=en&layout=compact" alt="siddharthbhamare01" /></p>
 
