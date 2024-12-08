@@ -52,6 +52,116 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
   </a>
+
+  <!-- C -->
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- Cassandra -->
+  <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cassandra" alt="cassandra" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- C++ -->
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- CSS -->
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- Django -->
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- Express -->
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- Figma -->
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- Firebase -->
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- Flask -->
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- Flutter -->
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
+  </a>&nbsp;
+  
+  
+<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/353851/hadoop.svg" alt="hadoop" width="40" height="40"/>
+</a>
+  
+  <!-- Heroku -->
+  <a href="https://heroku.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- HTML -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- Java -->
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- Jenkins -->
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- Kafka -->
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- Kubernetes -->
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- Materialize -->
+  <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=materialui" alt="materialize" width="40" height="40"/>
+  </a>
   
 </p>
 
