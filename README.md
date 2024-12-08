@@ -8,7 +8,7 @@
 
 - 💼 I’m application developer **IBM**
 
-- 👨‍💻 All of my projects are available at [https://siddharthbhamare.netlify.app/](https://siddharthbhamare.netlify.app/)
+- 👨‍💻 All of my projects are available at **[Portfolio](https://siddharthbhamare.netlify.app/)**
 
 - 🔐 Connect me on **[LinkedIn](https://www.linkedin.com/in/siddharthbhamare16/)**
 
