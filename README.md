@@ -22,11 +22,32 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/@siddharthbhamare16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@siddharthbhamare16" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/@siddharth16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="@siddharth16" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@siddharthbhamare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@siddharthbhamare" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/@sid_1603_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@sid_1603_" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<siddharthbhamare01>siddharth bhamare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<siddharthbhamare01>siddharth bhamare" height="30" width="40" /></a>
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/siddharthbhamare16" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" height="40"/>
+</a>
+<a href="https://linkedin.com/in/siddharthbhamare16" target="_blank" rel="noreferrer">Siddharth Bhamare</a>&nbsp;&nbsp;
+
+<!-- GeeksforGeeks -->
+<a href="https://auth.geeksforgeeks.org/user/siddharthbhamare01" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="geeksforgeeks" width="40" height="40"/>
+</a>
+<a href="https://auth.geeksforgeeks.org/user/siddharthbhamare01" target="_blank" rel="noreferrer">siddharthbhamare01</a>
+
+<!-- CodeChef -->
+<a href="https://www.codechef.com/users/siddharth16" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/codechef.png" alt="codechef" width="40" height="40"/>
+</a>&nbsp;
+
+<!-- LeetCode -->
+<a href="https://www.leetcode.com/sid_1603_" target="_blank" rel="noreferrer">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="leetcode" width="40" height="40"/>
+</a>
+
+<!-- GeeksforGeeks -->
+<a href="https://auth.geeksforgeeks.org/user/siddharthbhamare01" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="geeksforgeeks" width="40" height="40"/>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
