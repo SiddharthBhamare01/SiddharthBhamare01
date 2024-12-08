@@ -10,15 +10,15 @@
 
 - 👨‍💻 All of my projects are available at [https://siddharthbhamare.netlify.app/](https://siddharthbhamare.netlify.app/)
 
-- 🔐 Connect me on [https://www.linkedin.com/in/siddharthbhamare16/](https://www.linkedin.com/in/siddharthbhamare16/)
+- 🔐 Connect me on **[LinkedIn](https://www.linkedin.com/in/siddharthbhamare16/)**
 
 - 💬 Ask me about **Machine Learning, Back-end, Front-end**
 
-- 📫 How to reach me **sbhamare1@hawk.iit.edu**
+- 📫 Click here to reach out me **[sbhamare1@hawk.iit.edu](sbhamare1@hawk.iit.edu)**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cX7Bz6G23KSMxzaJ5NQo2yOID1aGxSN0/view?usp=drive_link](https://drive.google.com/file/d/1cX7Bz6G23KSMxzaJ5NQo2yOID1aGxSN0/view?usp=drive_link)
+- 📄 Know about my experiences here **[Resume](https://drive.google.com/file/d/1cX7Bz6G23KSMxzaJ5NQo2yOID1aGxSN0/view?usp=drive_link)**
 
-- ⚡ My IEEE Research works **https://ieeexplore.ieee.org/document/10420379/**
+- ⚡ My IEEE Research works **[Award winning paper 1](https://ieeexplore.ieee.org/document/10420379/)**, **[Paper 2](https://ieeexplore.ieee.org/document/10420408/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
