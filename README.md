@@ -33,8 +33,8 @@
 <p align="left">
   <!-- Angular -->
   <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Angular_logo.svg" alt="angular" width="40" height="40"/>
-  </a> 
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+  </a>
   <!-- AWS -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/>
@@ -52,7 +52,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/>
   </a>
 </p>
-
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthbhamare01&show_icons=true&locale=en&layout=compact" alt="siddharthbhamare01" /></p>
