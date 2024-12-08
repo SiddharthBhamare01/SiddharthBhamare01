@@ -46,12 +46,12 @@
 </a>
 <a href="https://www.leetcode.com/sid_1603_" target="_blank" rel="noreferrer">sid_1603_</a>&nbsp;
 
-
-<!-- GeeksforGeeks -->
-<a href="https://auth.geeksforgeeks.org/user/siddharthbhamare01" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="geeksforgeeks" width="40" height="40"/>
+<!-- HackerRank -->
+<a href="https://www.hackerrank.com/siddharthbhamare" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackerrank" width="40" height="40"/>
 </a>
-<a href="https://auth.geeksforgeeks.org/user/siddharthbhamare01" target="_blank" rel="noreferrer">siddharthbhamare01</a>&nbsp;
+<a href="https://www.hackerrank.com/siddharthbhamare" target="_blank" rel="noreferrer">siddharthbhamare</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
