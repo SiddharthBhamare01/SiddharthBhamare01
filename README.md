@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/siddharthbhamare16" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" height="40"/>
 </a>
-<a href="https://linkedin.com/in/siddharthbhamare16" target="_blank" rel="noreferrer">Siddharth Bhamare</a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/siddharthbhamare16" target="_blank" rel="noreferrer">sidharthbhamare16</a>&nbsp;&nbsp;
 
 <!-- GeeksforGeeks -->
 <a href="https://auth.geeksforgeeks.org/user/siddharthbhamare01" target="_blank" rel="noreferrer">
@@ -37,17 +37,21 @@
 <!-- CodeChef -->
 <a href="https://www.codechef.com/users/siddharth16" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/000000/codechef.png" alt="codechef" width="40" height="40"/>
-</a>&nbsp;
+</a>
+<a href="https://www.codechef.com/users/siddharth16" target="_blank" rel="noreferrer">siddharth16</a>&nbsp;
 
 <!-- LeetCode -->
 <a href="https://www.leetcode.com/sid_1603_" target="_blank" rel="noreferrer">
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="leetcode" width="40" height="40"/>
 </a>
+<a href="https://www.leetcode.com/sid_1603_" target="_blank" rel="noreferrer">sid_1603_</a>&nbsp;
+
 
 <!-- GeeksforGeeks -->
 <a href="https://auth.geeksforgeeks.org/user/siddharthbhamare01" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="geeksforgeeks" width="40" height="40"/>
 </a>
+<a href="https://auth.geeksforgeeks.org/user/siddharthbhamare01" target="_blank" rel="noreferrer">siddharthbhamare01</a>&nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -55,24 +59,23 @@
   <!-- Angular -->
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a>
-  </a>
+  </a>&nbsp;
  <!-- Azure -->
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
+  </a>&nbsp;
   <!-- Blender -->
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-  </a>
+  </a>&nbsp;
   <!-- AWS -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
-  </a>
+  </a>&nbsp;
   <!-- Bootstrap -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
+  </a>&nbsp;
 
   <!-- C -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -137,7 +140,7 @@
   
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
   <img src="https://www.svgrepo.com/show/353851/hadoop.svg" alt="hadoop" width="40" height="40"/>
-</a>
+</a>&nbsp;
   
   <!-- Heroku -->
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
@@ -182,7 +185,7 @@
   <!-- Materialize -->
   <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=materialui" alt="materialize" width="40" height="40"/>
-  </a>
+  </a>&nbsp;
   <!-- MATLAB -->
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/>
@@ -226,7 +229,7 @@
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
-  </a>
+  </a>&nbsp;
 <!-- React Native -->
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/>
@@ -280,7 +283,7 @@
   <!-- Unreal Engine -->
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="40" height="40"/>
-  </a>
+  </a>&nbsp;
   
 </p>
 
