@@ -206,6 +206,61 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
   </a>
+<!-- React Native -->
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- Redux -->
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- Scikit-learn -->
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit_learn" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- Selenium -->
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- Spring -->
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- SQLite -->
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- Tailwind -->
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- TensorFlow -->
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- Unity -->
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- Unreal Engine -->
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="40" height="40"/>
+  </a>
+  
 </p>
 
 
