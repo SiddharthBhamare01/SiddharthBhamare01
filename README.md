@@ -162,7 +162,50 @@
   <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=materialui" alt="materialize" width="40" height="40"/>
   </a>
+  <!-- MATLAB -->
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/>
+  </a>&nbsp;
   
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- NodeJS -->
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- OpenCV -->
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- Postman -->
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- PyTorch -->
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <!-- React -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
+  </a>
 </p>
 
 
