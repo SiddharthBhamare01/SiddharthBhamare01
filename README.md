@@ -21,7 +21,14 @@
 - ⚡ My IEEE Research works **[Award winning paper 1](https://ieeexplore.ieee.org/document/10420379/)**, **[Paper 2](https://ieeexplore.ieee.org/document/10420408/)**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://linkedin.com/in/siddharthbhamare16" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" height="40"/></a>&nbsp;<a href="https://linkedin.com/in/siddharthbhamare16" target="_blank" rel="noreferrer">siddharthbhamare16</a>&nbsp;&nbsp;&nbsp;<a href="https://auth.geeksforgeeks.org/user/siddharthbhamare01" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="geeksforgeeks" width="40" height="40"/></a>&nbsp;<a href="https://auth.geeksforgeeks.org/user/siddharthbhamare01" target="_blank" rel="noreferrer">siddharthbhamare01</a>&nbsp;&nbsp;&nbsp;<a href="https://www.codechef.com/users/siddharth16" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/codechef.png" alt="codechef" width="40" height="40"/></a>&nbsp;<a href="https://www.codechef.com/users/siddharth16" target="_blank" rel="noreferrer">siddharth16</a>&nbsp;&nbsp;&nbsp;<a href="https://www.leetcode.com/sid_1603_" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="leetcode" width="40" height="40"/></a>&nbsp;<a href="https://www.leetcode.com/sid_1603_" target="_blank" rel="noreferrer">sid_1603_</a>&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/siddharthbhamare" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackerrank" width="40" height="40"/></a>&nbsp;<a href="https://www.hackerrank.com/siddharthbhamare" target="_blank" rel="noreferrer">siddharthbhamare</a></p>
+
+| Platform | Username |
+|----------|----------|
+| <a href="https://linkedin.com/in/siddharthbhamare16"><img src="https://skillicons.dev/icons?i=linkedin" width="30"/></a> | [siddharthbhamare16](https://linkedin.com/in/siddharthbhamare16) |
+| <a href="https://auth.geeksforgeeks.org/user/siddharthbhamare01"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="30"/></a> | [siddharthbhamare01](https://auth.geeksforgeeks.org/user/siddharthbhamare01) |
+| <a href="https://www.codechef.com/users/siddharth16"><img src="https://img.icons8.com/color/48/000000/codechef.png" width="30"/></a> | [siddharth16](https://www.codechef.com/users/siddharth16) |
+| <a href="https://www.leetcode.com/sid_1603_"><img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" width="30"/></a> | [sid_1603_](https://www.leetcode.com/sid_1603_) |
+| <a href="https://www.hackerrank.com/siddharthbhamare"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="30"/></a> | [siddharthbhamare](https://www.hackerrank.com/siddharthbhamare) |
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
