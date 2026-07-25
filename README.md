@@ -1,4 +1,4 @@
-[![MasterHead](https://github-readme-stats.vercel.app/api/top-langs?username=SiddharthBhamare01&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://bhamare.vercel.app/)
+[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://bhamare.vercel.app/)
 
 <h1 align="center">Hi 👋, I'm Siddharth Bhamare</h1>
 <h3 align="center">Software Engineer | Ex-IBM | MS CS @ Illinois Tech</h3>
